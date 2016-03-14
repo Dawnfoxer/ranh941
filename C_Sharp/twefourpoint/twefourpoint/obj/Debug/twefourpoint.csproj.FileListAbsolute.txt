@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\bin\Debug\twefourpoint.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\bin\Debug\twefourpoint.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\bin\Debug\twefourpoint.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Debug\twefourpoint.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Debug\twefourpoint.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Debug\twefourpoint.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Debug\twefourpoint.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Debug\twefourpoint.pdb

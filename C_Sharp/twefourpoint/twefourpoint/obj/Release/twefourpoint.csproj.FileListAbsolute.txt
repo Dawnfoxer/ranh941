@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\bin\Release\twefourpoint.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\bin\Release\twefourpoint.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\bin\Release\twefourpoint.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Release\twefourpoint.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Release\twefourpoint.howPlay.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Release\twefourpoint.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Release\twefourpoint.viewRecord.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Release\twefourpoint.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Release\twefourpoint.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\obj\Release\twefourpoint.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\bin\Release\twefourpoint.exe.CodeAnalysisLog.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\C#\final\twefourpoint\twefourpoint\bin\Release\twefourpoint.exe.lastcodeanalysissucceeded
